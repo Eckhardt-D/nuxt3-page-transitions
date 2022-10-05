@@ -1,4 +1,5 @@
 <template>
+  <div class="bg-orange-100">
   <div class="page bg-orange-100">
     <h1 class="text-5xl mb-5">Post Page</h1>
 
@@ -14,5 +15,6 @@
 
     <nuxt-link class="bg-white p-2 m-2" to="/post/1">Read More</nuxt-link>
     <nuxt-link class="bg-white p-2 m-2" to="/">Go Back</nuxt-link>
+  </div>
   </div>
 </template>
